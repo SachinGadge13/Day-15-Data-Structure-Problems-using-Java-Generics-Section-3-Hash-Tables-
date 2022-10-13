@@ -4,7 +4,7 @@ public class HashTable {
     public static void main(String[] args) {
         System.out.println("Welcome To Hash Table Program");
         HashTableImplementation<String, Integer> hashImpl = new HashTableImplementation<String, Integer>();
-        String message = "To be or not to be";
+        String message = "Paranoids are not	paranoid because they are paranoid but because they keep putting themselves deliberately into paranoid avoidable situations";
 
         // Split the words when a white space comes up and Convert all the words in
         // lowercase
